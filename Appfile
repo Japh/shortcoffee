@@ -1,0 +1,15 @@
+application {
+  name = "shortcoffee"
+  type = "node"
+}
+
+project {
+  name = "shortcoffee"
+  infrastructure = "shortcoffee"
+}
+
+infrastructure "shortcoffee" {
+  type = "aws"
+  flavor = "simple"
+}
+

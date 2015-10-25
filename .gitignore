@@ -68,3 +68,5 @@ config.js
 
 # Coverage reports
 coverage.html
+
+.otto*
