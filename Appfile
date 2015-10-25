@@ -13,3 +13,7 @@ infrastructure "shortcoffee" {
   flavor = "simple"
 }
 
+customization "node" {
+  node_version = "0.10.40"
+}
+
