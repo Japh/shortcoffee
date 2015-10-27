@@ -16,4 +16,3 @@ infrastructure "shortcoffee" {
 customization "node" {
   node_version = "0.10.40"
 }
-
